@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2fb88f88f886064c8533cb882aa736d, type: 3}
+  m_Name: FemaleTshirt01
+  m_EditorClassIdentifier: 
+  slotName: FemaleTshirt01
+  meshRenderer: {fileID: 13700002, guid: 597b664a4af594049a00c79236cd3413, type: 3}
+  materialSample: {fileID: 2100000, guid: a1b30327501eda441907cfe7be685bc0, type: 2}
+  overlayScale: 1
+  umaBoneData: []
+  slotDNA: {fileID: 0}
+  Place: {fileID: 11400002, guid: 9aa8fe4a5ae41f942b4ec1fe76e33a5e, type: 2}
+  _UMA: {fileID: 11400000, guid: b564f97c29a1fdc4e92078d730ccf838, type: 2}
+  Race:
+  - Goblin
+  - HumanAfrica
+  - HumanOccidental
+  - HumanAsia
+  - Orc
+  Gender: Female
+  OverlayType: TorsoWear
+  Active: 0
+  Default: 0
+  Elem: 0
+  WearWeight: Light
+  Replace: 0
+  _HideData:
+    HideMouth: 0
+    HideEars: 0
+    HideBeard: 0
+    HideHair: 0
+    HideHairModule: 0
+    HideShoulders: 0
+    HideLegs: 0
+    HideBelt: 0
+    HideArmBand: 0
+    HideWrist: 0
+    HideCollar: 0
+    HideLegBand: 0
+    HideRing: 0
+    HideUnderwear: 0
+  overlayList: []
+  LinkedOverlayList:
+  - {fileID: 11400000, guid: bb35f2f93720f3d4180331018be0dee4, type: 2}
+  _LegacyData:
+    HasLegacy: 0
+    LegacyList: []
+    IsLegacy: 0
+    ElderList: []
+    Replace: 0
