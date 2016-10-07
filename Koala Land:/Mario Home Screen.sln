@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{558F8CC9-CDA6-DE94-9C1A-4115832C2A8E}") = "Mario Home Screen", "Assembly-CSharp-firstpass.csproj", "{BE2738AA-78CD-3EC0-A581-C4F7AF44EB24}"
+EndProject
+Project("{558F8CC9-CDA6-DE94-9C1A-4115832C2A8E}") = "Mario Home Screen", "Assembly-CSharp.csproj", "{F4761847-3284-00DB-52EA-E3F2CB1059F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2738AA-78CD-3EC0-A581-C4F7AF44EB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2738AA-78CD-3EC0-A581-C4F7AF44EB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2738AA-78CD-3EC0-A581-C4F7AF44EB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2738AA-78CD-3EC0-A581-C4F7AF44EB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4761847-3284-00DB-52EA-E3F2CB1059F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4761847-3284-00DB-52EA-E3F2CB1059F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4761847-3284-00DB-52EA-E3F2CB1059F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4761847-3284-00DB-52EA-E3F2CB1059F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
